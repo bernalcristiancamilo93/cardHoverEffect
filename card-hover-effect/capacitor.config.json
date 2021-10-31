@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "card-hover-effect",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

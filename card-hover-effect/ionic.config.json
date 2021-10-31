@@ -1,0 +1,7 @@
+{
+  "name": "card-hover-effect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
